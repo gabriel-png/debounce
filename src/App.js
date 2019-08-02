@@ -11,7 +11,7 @@ const App = () => (
   <Provider store={store}>
     <Helmet>
       <meta charSet="utf-8" />
-      <title>Gabriel</title>
+      <title>Victor</title>
       <meta
         name="description"
         content="Save interesting tools in a safe place. From programmers to programmers."
